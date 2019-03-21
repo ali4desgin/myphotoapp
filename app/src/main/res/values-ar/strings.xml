@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">صوري</string>
+    <string name="appname">صوري</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="sign_in">تسجيل دخول</string>
+    <string name="download">حذف</string>
+    <string name="sign_up">انشاء حساب</string>
+
+
+    <string name="logout">تسجل خروج</string>
+    <string name="add">اضافة ملف جديد</string>
+
+
+    <string name="invalid_username">رجاء ادخل اسم صحيح</string>
+    <string name="username_exists">الاسم المدخل مستخدم مسبقا </string>
+    <string name="invalid_password">كلمة المرور يجب ان تكون اكثر من ٦ حروف</string>
+    <string name="login_fail">اسم المستخدم او كلمة المرور غير صحيحة</string>
+
+
+    <string name="alerts_dialog_title">مكتبتي</string>
+    <string name="ok_btn">موافق</string>
+    <string name="login_success">تهانينا ! لقد سجلت الدخول بنجاح</string>
+    <string name="register_success">تهانينا ! لقد انشأت حسابك </string>
+    <string name="title_activity_home">الرئيسية</string>
+    <string name="navigation_drawer_open">فتح</string>
+    <string name="navigation_drawer_close">اغلاق</string>
+    <string name="nav_header_title">مكتبتي</string>
+    <string name="nav_header_subtitle">info@myliarary.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">الاعدادات</string>
+
+    <string name="upload">رفع</string>
+    <string name="file_name">اسم الملف</string>
+    <string name="file_size">حجم الملف</string>
+    <string name="please_load_file">قم بادخال ملف سليم </string>
+    <string name="upload_fail">فشل الرفع حاول مرة اخرى </string>
+    <string name="thanks_for_add">شكرا لك ! لقد قمت بعمل رائع ! نشكرك علي مشاركتك لنا </string>
+
+</resources>
